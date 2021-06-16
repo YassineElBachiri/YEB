@@ -9,11 +9,13 @@ bölüm: bilgisayar mühendisliği 1.ö
 
 
 •	Ödevi hangi uygulamaları kullanarak hazırladım :
+HTML5 - CSS3 - JavaScript - PHP - MySQL
 
 
 
 
 •	Ödev hakkında :
+
 
 
 
